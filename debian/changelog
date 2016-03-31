@@ -1,3 +1,9 @@
+mintinstall (7.6.4+peppermint) xenial; urgency=medium
+
+  * Initial repackaging for Peppermint 7
+
+ -- Mark Greaves (PCNetSpec) <mark@pcnetspec.co.uk>  Thu, 31 Mar 2016 17:30:00 +0000
+
 mintinstall (7.6.4) sarah; urgency=medium
 
   [ Corbin Auriti ]
